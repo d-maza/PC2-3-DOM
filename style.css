@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    min-height: 80vh;
+    align-items: center;
+    justify-content: center;
+}
+
+#principal {  
+
+    width: 400px;
+    height: 200px;
+    box-sizing: border-box;
+    border: 1ex;
+    border:groove;
+    padding: 2ex;
+    text-align: center;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+
